@@ -1,3 +1,3 @@
-# First-Duplicate-Value-Algorithm
+# First-Duplicate-Value
 
 Implementation in Java
