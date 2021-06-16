@@ -1,3 +1,3 @@
-# First-Duplicate-Value
+# First Duplicate-Value
 
 Implementation in Java
